@@ -1,0 +1,33 @@
+body{
+background-image: url(background1.jpg);
+}
+.header{
+    width: 100%;
+    text-align: left;
+}
+#help{
+    border: 2px solid white;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+}
+#play, #restart{
+    font-size: 20px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+}
+canvas{
+    box-shadow: 5px 5px 5px rgb(16, 4, 128);
+}
+
+.modal-dialog{
+    width: 70%;
+}
+.modal-body{
+    text-align: left;
+}
